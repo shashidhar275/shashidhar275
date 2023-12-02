@@ -18,7 +18,13 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is Shashidhar</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shashidhar275.shashidhar275&"  />
+</div>
+
+###
+
+<h1 align="center">Hi 👋</h1>
 
 ###
 
@@ -26,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m a passionate developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I love to play chess and cricket</p>
+<p align="left">I'm Shashidhar from Hubli....<br><br>- 🔭 I’m a passionate developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I love to play chess and cricket</p>
 
 ###
 
@@ -51,5 +57,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shashidhar275&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
