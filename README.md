@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Shashidhar from Hubli....<br><br>- 🔭 I’m a passionate developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I love to play chess and cricket</p>
+<p align="left">I'm Shashidhar from Hubli....<br><br>- 🔭 I’m a passionate problem solver and a skillful developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I love to play chess and cricket</p>
 
 ###
 
@@ -87,10 +87,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/shashidhar-angadi-051702251" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Shashid04019368?t=PSGbQCskrYZz11cxX7Vezg&s=08" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/shashidhar__angadi/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
