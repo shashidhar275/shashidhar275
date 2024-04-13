@@ -4,10 +4,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ShashidharAngadi?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shashidhar275.shashidhar275&"  />
-</div>
-
 ###
 
 <h1 align="center">Hi 👋</h1>
