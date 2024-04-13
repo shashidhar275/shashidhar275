@@ -1,7 +1,7 @@
 <div align="center">
-  <img height="150" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=1060&t=st=1706367429~exp=1706368029~hmac=cf029b821bdf3f391bc9cd0ddff270b924cc24a4c395b5dcc411f3cca533afa8"  />
-</div>
 
+### Stats - 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ShashidharAngadi?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
 ###
 
 <div align="center">
