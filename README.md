@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Shashidhar from Hubli....<br><br>- 🔭 I’m a passionate problem solver and a skillful developer<br>- 📚 I'm currently  building Full Stack Projects<br>- ⚡ In my free time I love to play chess and cricket</p>
+<p align="left">I'm Shashidhar....<br><br>- 🔭 I’m a passionate problem solver and a skillful developer<br>- 📚 I'm currently  building Full Stack Projects<br>- ⚡ In my free time I love to play chess and cricket</p>
 
 ###
 
