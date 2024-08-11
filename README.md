@@ -4,20 +4,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ShashidharAngadi?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
 ###
 
-###
-
-<h1 align="center">Hi 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Shashidhar....<br><br>- 🔭 I’m a passionate problem solver and a skillful developer<br>- 📚 I'm currently  building Full Stack Projects<br>- ⚡ In my free time I love to play chess and cricket</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
